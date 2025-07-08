@@ -1,5 +1,6 @@
 ## 👋 Hey there, I'm Rafly 👋
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dzQ2dDdzZ3Vhd3VmcDExYWxhcmJua2E1bG81aWFhdXQzeDQybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AFdcYElkoNAUE/giphy.gif)
+
 I'm semester 2 student at **Bina Sarana Informatika University (BSI)** with a growing passion for programming and software development.  
 I enjoy building projects using **Python** and **Java**, and I'm always open to learning new technologies.
 
