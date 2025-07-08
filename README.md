@@ -17,7 +17,7 @@ Right now, I'm focused on sharpening my skills and building a solid portfolio th
 
 ---
 
-📫 **Get in touch:**  
+📫 **Ask To Me?:**  
 Instagram: [@rafly_ydstra](https://www.instagram.com/rafly_ydstra?igsh=YWV3c2pzajFjZnF1)  
 Email: ahmadrafly137@gmail.com
 
