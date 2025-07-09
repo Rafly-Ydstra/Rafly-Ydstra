@@ -4,16 +4,18 @@
 I'm semester 2 student at **Bina Sarana Informatika University (BSI)** with a growing passion for programming and software development.  
 I enjoy building projects using **Python** and **Java**, and I'm always open to learning new technologies.
 
+![Rafly](img/github-header-image.png)
+
 I take pride in being a strong **team player**, someone who communicates well and contributes actively to group projects.  
 Right now, I'm focused on sharpening my skills and building a solid portfolio through both personal and collaborative work.
 
 ---
 
 ### 💻 Languages & Tools:
-- Python 🐍
-- Java ☕
-- Git & GitHub
-- Basic Web Development
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 
 ---
 
