@@ -3,25 +3,28 @@
 
 I'm semester 2 student at **Bina Sarana Informatika University (BSI)** with a growing passion for programming and software development.  
 I enjoy building projects using **Python** and **Java**, and I'm always open to learning new technologies.
-
-![Rafly](img/github-header-image.png)
-
 I take pride in being a strong **team player**, someone who communicates well and contributes actively to group projects.  
 Right now, I'm focused on sharpening my skills and building a solid portfolio through both personal and collaborative work.
 
 ---
 
-### 💻 Languages & Tools:
+###  Languages & Tools:
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-
 ---
 
-📫 **Ask To Me?:**  
-Instagram: [@rafly_ydstra](https://www.instagram.com/rafly_ydstra?igsh=YWV3c2pzajFjZnF1)  
-Email: ahmadrafly137@gmail.com
+### 📫 **Ask To Me?:**  
+![https://wa.me/qr/CFHVFTEQCGF6O1](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![https://www.instagram.com/rafly_ydstra?igsh=YWV3c2pzajFjZnF1](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![ahmadrafly137@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafly-Ydstra/Rafly-Ydstra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafly-Ydstra/Rafly-Ydstra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafly-Ydstra/Rafly-Ydstra/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 <!--
