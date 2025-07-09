@@ -16,7 +16,8 @@ Right now, I'm focused on sharpening my skills and building a solid portfolio th
 ---
 
 ### 📫 **Ask To Me?:**  
-![https://wa.me/qr/CFHVFTEQCGF6O1](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![https://www.instagram.com/rafly_ydstra?igsh=YWV3c2pzajFjZnF1](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![ahmadrafly137@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/CFHVFTEQCGF6O1) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafly_ydstra?igsh=YWV3c2pzajFjZnF1) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadrafly137@gmail.com)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafly-Ydstra/Rafly-Ydstra/output/pacman-contribution-graph-dark.svg">
